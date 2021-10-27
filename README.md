@@ -1,7 +1,7 @@
 # AmigoDoFrotista UECE 🚚
 
-Projeto realizado afim de concluir o curso programador Web, oferecido pela Qualifica Mais Emprega +/UECE
-Autor do Projeto: Romário Paixão de Oliveira 
+- Projeto realizado afim de concluir o curso programador Web, oferecido pela Qualifica Mais Emprega +/UECE
+- Autor do Projeto: Romário Paixão de Oliveira 
 
 ## OBJETIVO
 
