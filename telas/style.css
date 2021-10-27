@@ -1,0 +1,156 @@
+/*geral*/
+.nav{
+    background-color: #0033FF;
+}
+
+footer{
+    color: #EDEBE8;
+    background-color: #2550fa;
+}
+
+.col-md-10{
+    margin-bottom: 5%;
+}
+
+.btn{
+    background-color: #2550fa;
+    display: flex;
+    width: 15%;
+    justify-content: center;
+    border-radius: 40px;
+    border-color: #2550fa;
+    
+    
+}
+/*ajuste tela motorista*/
+
+#cadastroMotorista{
+    background-color: #2550faef;
+    color: white;
+    padding: 2%;
+    border-radius: 20px;
+    margin-left: 80px;
+
+}
+
+.formularioMotorista{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#containerMotorista{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+
+#botaoMotorista{
+    background-color: white;
+    color: #2550fa;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.titleMotorista{
+    display: flex;
+    justify-content: center;
+    margin-top: 2%;
+    color: #2550fa;
+}
+
+
+#imgMotorista{
+    margin-top: 10%;
+}
+
+/*ajustes tela veículo*/
+
+#cadastroVeiculo{
+    background-color: #2550faef;
+    color: white;
+    padding: 4%;
+    border-radius: 20px;
+    margin-left: 80px;
+    height: 35%;
+    margin-top: 5% ;
+
+}
+
+#botaoVeiculo{
+    background-color: white;
+    color: #2550fa;
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+}
+
+.formularioVeiculo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#containerVeiculo{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+.titleVeiculo{
+    display: flex;
+    justify-content: center;
+    margin-top: 2%;
+    color: #2550fa;
+}
+
+
+/*ajustes tela index*/
+#aviso{
+    color: #D16908;
+}
+
+.col-md-10{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.col-sm-7{
+    padding-top: 1%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#cabecalho{
+    background-color: #0033FF;
+    color: #EDEBE8;
+    padding-top: 3%;
+    height: 230px;
+    margin-bottom: 3%;
+}
+
+.table{
+    background-color: #edebe8;
+
+}
+
+.list{
+    background-color: #edebe8;
+}
+
+/*ajustes relatório*/
+
+#containerRelatorio{
+    padding-left: 12%;
+    padding-right: 12%;
+}
+
+
+
+
+
+
